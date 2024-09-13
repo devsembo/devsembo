@@ -1,28 +1,5 @@
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/anderson-ap01?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/anderson-ap01?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/anderson-ap01?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/anderson-ap01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-<br/>
-
-<p align="end">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://github.com/anderson-ap01/anderson-ap01/blob/main/freepik-dev-20240913195743oTfF.png"   alt="Anderson Pedro"  width="160" height="145" /></a>
-</p>
-
-
 <details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ Our Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
