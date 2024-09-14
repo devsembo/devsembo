@@ -3,7 +3,9 @@
 [![Blog](https://img.shields.io/website?label=devsembo&style=for-the-badge&url=https://devsembo.com/)](https://devsembo.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/devsembo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devsembo)
+<!--
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
+-->
 
 ## Tech's we use in our days
 
